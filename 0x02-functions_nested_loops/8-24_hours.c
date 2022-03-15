@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
  * jack_bauer - prints every minute of the day of Jack Bauer
@@ -45,5 +45,6 @@ while (h2 <= 2)
 	}
 	h2++;
 }
+
 
 }
